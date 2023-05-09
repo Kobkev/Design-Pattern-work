@@ -1,0 +1,154 @@
+
+
+
+.color_1{
+ background-color: #FF637D;
+}
+.color_2{
+    background-color: #F4f1bb;
+}
+.color_2{
+    background-color: #66D7D1;
+}
+.color_3{
+    background-color: #EAF2E3;
+}
+.color_4{
+    background-color: #FFF87F;
+}
+.color_5{
+    background-color: #F4f1bb;
+}
+.colr1{
+    background-color: #ec407a;
+}
+.colr2{
+    background-color: #b4004e;
+}
+.colr3{
+    background-color: #ff77a9;
+}
+.colr11{
+    background-color: #2196f3;
+}
+.colr21{
+    background-color: #0069c0;
+}
+.colr31{
+    background-color: #6ec6ff;
+}
+.colr12{
+    background-color: #9c27b0;
+}
+.colr22{
+    background-color: #6a0080;
+}
+.colr32{
+    background-color: #d05ce3;
+}
+.colr13{
+    background-color: #99aa00;
+}
+.colr23{
+    background-color: #707c01;
+}
+.colr33{
+    background-color: #ffff6e;
+}
+.colr14{
+    background-color: #00bcd4;
+}
+.colr24{
+    background-color: #008ba3;
+}
+.colr34{
+    background-color: #62efff;
+}
+.colr15{
+    background-color: #9e9e9e;
+}
+.colr25{
+    background-color: #707070;
+}
+.colr35{
+    background-color: #fafafa;
+}
+.sombra{
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 9px 26px 0 rgb(0 0 0 / 19%);
+}
+
+
+header{
+    position: relative;
+}
+
+#chat-mensajes{
+    height: 300px;
+    border: 1px solid gainsboro;
+    overflow-y: scroll;
+}
+
+
+.color_1{
+    background-color: #b0003a;
+}
+
+.color_2{
+    background-color: #ff6090;
+}
+.color_3{
+    background-color: #e91e63;
+}
+.color_4{
+  
+    background-color: #c7c7c7;
+}
+.color_6{
+    background-color: #eeeeee;
+}
+.borde_i{
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.login{
+     height: 800px; 
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 9px 26px 0 rgb(0 0 0 / 19%);
+}
+.iz {
+   
+    box-shadow: 0 5px 8px 0 rgb(0 0 0 / 20%), 0 9px 26px 0 rgb(0 0 0 / 19%);
+}
+
+.altura_log{
+    height: 100%;
+}
+
+.logo_container {
+    position: relative;
+    height: 170px;
+    width: 170px;
+    top: 10px;
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-color:#b0003a;
+}
+.img-logo {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+
+
+.logo {
+    height: 80px;
+    width: 150px;
+    
+}
+
