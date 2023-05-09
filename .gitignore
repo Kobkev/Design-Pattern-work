@@ -1,0 +1,9 @@
+*/target/
+*.xml
+*/test/
+*/nbproject/
+
+*.mf
+*.netbeans_automatic_build
+*.netbeans_update_resources
+*.properties
